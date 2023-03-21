@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family:Verdana, Ubuntu;
+    background-color: #4488AA;
+    color: #99EEEE;
+}
+
+address {
+    vertical-align: top;
+    font-size: 12px;
+    padding-right: 20px;
+}
+
+a {
+    color: #FFFFFF;
+}
+
+a:visited {
+    color: #99EEEE;
+    text-decoration-color: #99EEEE;
+}
+
+.bigText {
+    font-size: 28px;
+    line-height: 5px;
+    font-family: 'Lucida Bright', Liberation;
+}
+
+.top{
+    vertical-align: top;
+}
+
+.ul-spacing-bigger{
+    color: white;
+    line-height: 40px;
+}

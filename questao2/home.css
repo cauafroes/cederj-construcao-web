@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    font-size: 16px;
+    font-family: 'stoke', 'Lucida Bright', liberation;
+    background-color: #4488AA;
+    color: #99EEEE;
+}
+
+header {
+    display: block;
+    margin-bottom: 1px;
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #99EEEE;
+}
+
+nav{
+    display: block;
+    height: 100%;
+    float: left;
+    width: 20%;
+}
+
+section{
+    display: block;
+    margin-top: 110px;
+}
+
+#ender {
+    float: right; 
+    width: 30%;
+    height: 100px;
+    text-align: right;
+    font-size: 15px;
+    font-family: Karla, Verdana, Ubuntu;
+} 
+
+#apres{
+    float: right; 
+    width: 80%;
+    text-align: center;
+    font-size: 18px;
+    line-height: 5px;
+}
+
+#container{
+    padding: 15px;
+}
+
+#imgLogo{
+    float: left;
+    width: 70%;
+    border-bottom: 3px solid #FFFFFF;
+    margin-bottom: 6px;
+    padding-bottom: 15px;
+}
+
+nav ul{
+    color: #FFFFFF;
+    line-height: 230%;
+    margin-top: 40px;
+    list-style-image: url("BrilhoMark.png");
+    font-size: 20px;
+    font-family: Karla, Verdana, Ubuntu;
+}
