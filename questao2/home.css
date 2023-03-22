@@ -65,7 +65,7 @@ nav ul{
     color: #FFFFFF;
     line-height: 230%;
     margin-top: 40px;
-    list-style-image: url("BrilhoMark.png");
+    list-style-image: url("../Imagens/BrilhoMark.png");
     font-size: 20px;
     font-family: Karla, Verdana, Ubuntu;
 }

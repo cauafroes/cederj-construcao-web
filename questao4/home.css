@@ -93,6 +93,18 @@ section{
     text-align: center;
 }
 
+#tabInfo .preco {
+    color: #CC0000;
+}
+
+#tabInfo .colTH{
+    padding: 10px;
+    color: #FFFFFF;
+    background-color: #0066DD;
+    vertical-align: middle;
+    text-align: left;
+}
+
 #container{
     padding: 15px;
 }
@@ -104,3 +116,4 @@ section{
     margin-bottom: 6px;
     padding-bottom: 15px;
 }
+
